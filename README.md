@@ -115,6 +115,7 @@ This project demonstrates that Generative Adversarial Networks can accurately le
 
 Mehak  
 Roll Number: 102303792
+
 COE,TIET
 
 
